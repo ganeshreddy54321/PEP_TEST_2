@@ -1,0 +1,273 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+/* .logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+
+
+
+/* problem-1 */
+/* h2,p{
+  color: black;
+}
+body{
+  background-color: #f4f4f4;
+}
+
+.container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100vh;
+  background: #f4f4f4;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  max-width: 1280px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.widget {
+  background: white;
+  padding: 25px;
+  width: 320px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 15px;
+  border: none;
+  background-color: skyblue;
+  color: black;
+  font-size: 14px;
+  border-radius: 5px;
+  cursor: pointer;
+} */
+
+
+/* problem-2 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.git{
+  padding-left: 20px;
+}
+
+.app {
+  max-width: 600px;
+  margin: 40px auto;
+}
+
+h1 {
+  margin-bottom: 15px;
+  color: black;
+}
+
+h3{
+  color: black;
+}
+
+.search-bar {
+  display: flex;
+  gap: 10px;
+}
+
+.search-bar input {
+  flex: 1;
+  padding: 10px;
+  background: #1f2933;
+  color: white;
+  border: none;
+  border-radius: 6px;
+}
+
+.search-bar button {
+  padding: 10px 16px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background: #1d4ed8;
+}
+
+.profile-card {
+  margin-top: 20px;
+  background: #1f2933;
+  color: white;
+  display: flex;
+  padding: 15px;
+  border-radius: 10px;
+  gap: 15px;
+}
+
+.profile-card img {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.profile-info h2 {
+  margin: 0;
+}
+
+.profile-info p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: #cbd5e1;
+}
+
+.stats {
+  display: flex;
+  gap: 15px;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+.repo-title {
+  margin: 20px 0 10px;
+}
+
+.repo-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.repo-item {
+  background: #1f2933;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.repo-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.repo-item a:hover {
+  text-decoration: underline;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
+
+.info {
+  margin-top: 10px;
+}
+
+
+/* problem-3
+body {
+  font-family: Arial, sans-serif;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2,th,strong{
+  color:black;
+}
+
+.container2 {
+  width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 15px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: black;
+}
+
+th {
+  background: #f2f2f2;
+}
+
+.add-btn {
+  background: #22c55e;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.remove-btn {
+  background: #ef4444;
+  color: white;
+  border: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.total {
+  background: #e5e7eb;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 16px;
+} */
+
+
